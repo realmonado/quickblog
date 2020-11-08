@@ -10,5 +10,3 @@
 this is a just the demo of quickblog, the simple blogging platform built with pandoc and bash
 
 ## entries:
-
- [Why the Toyota MR2 is based](mr2.html)
